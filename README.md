@@ -1,0 +1,2 @@
+# EssencialEstilo-Front-End
+Funcionalidades: 
